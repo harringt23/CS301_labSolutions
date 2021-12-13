@@ -4,7 +4,7 @@ Solutions to the Object-Oriented Design Lab.
 ## Labs
 | Lab Instructions | Solutions |
 | - | - |
-| [1: Introduction]()   | [Lab 1](https://github.com/harringt23/CS301_labSolutions/tree/main/src/Lab1_BirthdayCake-master) |
+| [1: Introduction](https://github.com/harringt23/CS371_labSolutions/blob/main/src/Lab1/Lab01_CS371_IntroToAndroidAndGit_ver10.docx)   | [Lab 1](https://github.com/harringt23/CS371_labSolutions/tree/main/src/Lab1/Lab1_BirthdayCake-master) |
 | [2: Layouts]()        | [Lab 2]() |
 | [3: Events]()         | [Lab 3]() | 
 | [4: Surface View]()   | [Lab 4]() | 

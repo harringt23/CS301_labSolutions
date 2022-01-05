@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/brynnharrington/OneDrive - University of Portland/Junior S1/CS 371A - OOD Lab/1 Labs/Lab 6 - Game Framework/PigGameStarter-masterH/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/brynnharrington/OneDrive - University of Portland/Junior S1/CS 371A - OOD Lab/1 Labs/Lab 6 - Game Framework/PigGameStarter-masterH/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "63",
+                        "endOffsets": "76"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    }
+                }
+            ]
+        }
+    ]
+}

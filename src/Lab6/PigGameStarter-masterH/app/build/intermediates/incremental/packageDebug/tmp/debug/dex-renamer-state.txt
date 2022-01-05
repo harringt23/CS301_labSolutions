@@ -1,0 +1,4 @@
+#Tue Nov 02 16:23:14 PDT 2021
+base.0=/Users/brynnharrington/OneDrive - University of Portland/Junior S1/CS 371A - OOD Lab/1 Labs/Lab 6 - Game Framework/PigGameStarter-masterH/app/build/intermediates/dex/debug/mergeDexDebug/out
+renamed.0=classes.dex
+path.0=classes.dex

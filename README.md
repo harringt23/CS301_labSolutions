@@ -1,5 +1,5 @@
 # CS 371 Lab Solutions
-Solutions to the Object-Oriented Design Lab.
+My solutions to the Object-Oriented Design Lab.
 
 ## Labs
 | Lab Instructions | Solutions |

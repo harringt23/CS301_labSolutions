@@ -1,5 +1,5 @@
 # CS 371 Lab Solutions
-My solutions to the Object-Oriented Design Lab.
+My solutions to the Object-Oriented Design Lab at the University of Portland in the semester of Fall 2021.
 
 ## Labs
 | Lab Instructions | Solutions |
